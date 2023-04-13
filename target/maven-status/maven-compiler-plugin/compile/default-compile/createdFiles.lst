@@ -1,0 +1,8 @@
+javaproject\builderpay\model\entity\PaymentReceipt.class
+javaproject\builderpay\client\BuilderPayClient.class
+javaproject\builderpay\model\response\RecipientResponse.class
+javaproject\builderpay\model\dto\BillsPaymentDto.class
+javaproject\builderpay\app\BuilderPayApplication.class
+javaproject\builderpay\model\request\AuthenticationRequest.class
+javaproject\builderpay\model\response\AuthenticationResponse.class
+javaproject\builderpay\service\AuthenticationService.class
